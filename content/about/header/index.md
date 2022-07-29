@@ -3,10 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  About me
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+  I am the Assistant Unit Leader for the U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit and an Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+  I work on a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. Much of my research is focused on the development and application of statistical methods for analyzing temporal and spatial data.
+
+  I advise graduate students and post-docs in both formal and informal roles. Feel free to contact me if you would like to discuss any aspect of your research. 
