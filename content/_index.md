@@ -1,20 +1,20 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+action_label: 
+action_link: 
+action_type: 
+description: 
+image_left: false
 images:
-- img/revoir.jpg
+- img/Scheuerell_headshot_square.jpeg
 show_action_link: true
-show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+show_social_links: false
+position_aul: Assistant Unit Leader - Fisheries
+location_wacfwru: U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit
+position_prof: Associate Professor
+location_safs: School of Aquatic and Fishery Sciences
+location_uw: University of Washington
+text_align_left: true
+title: Mark Scheuerell
 type: home
 ---
 
