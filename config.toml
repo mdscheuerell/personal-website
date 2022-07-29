@@ -90,25 +90,25 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "mailto:scheuerl@uw.edu"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "twitter blue" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/mark_scheuerell"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
+      icon      = "github black" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mdscheuerell"
   [[params.social]]
-      icon      = "google-scholar"
+      icon      = "google-scholar orange"
       icon_pack = "ai"
       url       = "http://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8284-1254"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
+      icon      = "orcid green" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8284-1254"
+  [[params.social]]
+      icon      = "impactstory red" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://impactstory.org/u/0000-0002-8284-1254"
 
 [taxonomies]
   category = "categories"
