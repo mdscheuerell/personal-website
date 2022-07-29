@@ -8,9 +8,12 @@ show_intro: true
 intro: |
   I am the Assistant Unit Leader - Fisheries for the U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit and an Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington. I am also a member of the graduate faculty in the Quantitative Ecology and Resource Management program and an Affiliate in the eScience Institute.
 
-  I work on a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. Much of my research is focused on the development and application of statistical methods for analyzing temporal and spatial data.
+  I am an applied ecologist who integrates different data sources and analytical methods to study a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. I collaborate closely with partners from tribal, government, and academic institutions in identifying and conducting research projects. I am also dedicated to conducting open, reproducible science. My research generally falls into 3 major themes:
+  1) Statistical methods for analyzing temporal and spatial data
+  2) Understanding trophic interactions in aquatic food webs
+  3) Status assessments for at-risk species
 
-  I advise graduate students and post-docs in both formal and informal roles. Feel free to contact me if you would like to discuss any aspect of your research. 
+
 show_outro: false
 outro: |
   <i class="fas fa-envelope pr2"></i>[Email me](mailto:scheuerl@uw.edu)
