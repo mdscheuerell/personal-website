@@ -36,7 +36,7 @@ enableEmoji = true
   orgLocal = ""
   description = "Mark Scheuerell's academic website."
   favicon = "/img/favicon.ico"
-  logo = "/img/Scheuerell_Lab_logo.jpeg"
+  logo = "" # "/img/Scheuerell_Lab_logo.jpeg"
   mainSections = "" # ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
