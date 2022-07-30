@@ -6,7 +6,7 @@ cascade:
   layout: single-series
   sidebar:
     author: 
-    description: "These are courses that I have taught or currently teach at the University of Washington."
+    description: "These are graduate-level courses that I have taught or currently teach at the University of Washington."
     show_author_byline: false
     show_post_date: false
     show_sidebar_adunit: false
