@@ -1,6 +1,8 @@
 ---
+type: project
 author: 
 cascade:
+  type: project
   show_author_byline: true
   show_comments: false
   show_post_date: false

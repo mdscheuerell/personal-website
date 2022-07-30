@@ -1,5 +1,6 @@
 ---
 author: 
+title: Time series analysis
 categories:
 - Time series
 - R
@@ -18,9 +19,7 @@ links:
   name: code
   url: https://github.com/atsa-es
 subtitle: ""
-tags:
-- hugo-site
-title: Time series analysis
+weight: 1
 ---
 
 I work alongside a wide variety of people to help them analyze their data and better understand the underlying drivers of temporal variability. Projects include:

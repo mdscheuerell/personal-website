@@ -129,7 +129,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/project/"
+    url = "/research/"
     weight = 2
   [[menu.header]]
     name = "Teaching"
