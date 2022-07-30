@@ -6,7 +6,7 @@ cascade:
   layout: single-series
   sidebar:
     author: 
-    description: "These are courses I have taught or currently teach at UW."
+    description: "These are courses that I have taught or currently teach at the University of Washington."
     show_author_byline: false
     show_post_date: false
     show_sidebar_adunit: false
@@ -14,7 +14,7 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: Courses
-    title: Teaching at UW
+    title: 
 description: ""
 layout: list-sidebar
 show_author_byline: false
