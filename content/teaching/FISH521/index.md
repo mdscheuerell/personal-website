@@ -1,6 +1,6 @@
 ---
 title: "Proposal Writing and Professional Development for Graduate Students"
-weight: 1
+weight: 4
 subtitle: "FISH 521"
 excerpt: "This course includes the development of scientific ideas into coherent proposals, as well as addressing other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington."
 date: 2021-01-01
