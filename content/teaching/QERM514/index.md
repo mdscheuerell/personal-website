@@ -1,9 +1,9 @@
 ---
 title: "Analysis of Ecological and Environmental Data"
-weight: 4
+weight: 3
 subtitle: "QERM 514"
 excerpt: "
-This course introduces students to a large class of statistical models commonly used for analyses in ecology and environmental science. These include simple linear models, such as analysis of variance (ANOVA) and regression models, along with Generalized Linear Models (GLMs) that assume non-normal error distributions (e.g., logistic and Poisson regression)."
+This course introduces students to a large class of statistical models commonly used for analyses in ecology and environmental science. These include simple linear models, such as analysis of variance (ANOVA) and regression models, along with Generalized Linear Models (GLMs) (e.g., logistic and Poisson regression) and mixed-effects models (LMM, GLMM). Students learn how to choose model forms and structures based upon questions being asked and the nature of the data."
 date: 2021-01-01
 draft: false
 ---
