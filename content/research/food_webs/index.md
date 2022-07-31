@@ -16,9 +16,9 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/mdscheuerell
+  url: https://github.com/scheuerell-lab
 subtitle: 
 weight: 2
 ---
 
-Working to understand the flows of energy and nutrients through aquatic food webs.
+Through a combination of empirical data collection and statistical modeling, our group is working to understand the flows of energy and nutrients through aquatic food webs. Examples include nearshore fishes in Puget Sound and non-native fishes in Lakes Sammamish and Washington.
