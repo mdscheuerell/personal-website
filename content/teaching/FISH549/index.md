@@ -1,8 +1,8 @@
 ---
 title: "Best Practices in Environmental Data Science"
-weight: 2
+weight: 1
 subtitle: "FISH 549"
-excerpt: "This course provides an overview of data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data."
+excerpt: "This course provides an overview of data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Students learn how to translate raw data from field and lab studies into databases and “tidy” digital formats, which can then be used for plotting, statistical analyses, etc. Students learn how to track the history of file changes (version control), collaborate online with others, and generate “recipes” for re-creating one’s work. Students also learn how and where to ask for help when attempting something new (e.g., How do I create X from Y?), debugging or fixing code (e.g., What does this error message mean?), etc."
 date: 2021-01-01
 draft: false
 ---
