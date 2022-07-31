@@ -1,8 +1,8 @@
 ---
 title: "Applied Time Series Analysis in Fisheries and Environmental Sciences"
-weight: 3
+weight: 2
 subtitle: "FISH 550"
-excerpt: "This course is intended to give students an overview of the theory and practical aspects of fitting time series models to fisheries and environmental data. The course covers topics ranging from autocorrelation and crosscorrelation, autoregressive (AR) and moving average (MA) models, univariate and multivariate state-space models, and estimating model parameters.\nCo-taught with "
+excerpt: "This course is intended to give students an overview of the theory and practical aspects of fitting time series models to fisheries and environmental data. The course covers topics ranging from autocorrelation and crosscorrelation, autoregressive (AR) and moving average (MA) models, univariate and multivariate state-space models, and estimating model parameters. Co-taught with Eli Holmes (NOAA) and Eric Ward (NOAA)."
 date: 2021-01-01
 draft: false
 ---
