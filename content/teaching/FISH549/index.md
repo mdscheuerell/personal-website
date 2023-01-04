@@ -17,4 +17,4 @@ This course will provide an overview of some data science tools and best practic
 
 ### Course website
 
-https://fish497.github.io/website/index.html
+https://fish549.github.io/website/index.html
