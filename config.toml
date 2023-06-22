@@ -113,6 +113,10 @@ enableEmoji = true
       icon      = "impactstory red" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://impactstory.org/u/0000-0002-8284-1254"
+  [[params.social]]
+      icon      = "file-pdf" # icon name without the 'fa-'
+      icon_pack = "far"
+      url       = "https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf"
 
 [taxonomies]
   category = "categories"
