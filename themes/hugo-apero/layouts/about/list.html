@@ -31,13 +31,15 @@
             {{ end }}
           {{ else }}
             {{ with .Title }}
-            <h1 class="f2 f1-m f-headline-l fw1-ns mv4 lh-solid tracked-tight-ns">{{ . | markdownify }}</h1>
+            <h1 class="f2 f1-m f-headline-l fw5-ns mv4 lh-solid tracked-tight-ns">{{ . | markdownify }}</h1>
             {{ end }}
           {{ end }}
           {{ if .Params.show_intro }}
             <div class="pv3 f4 measure lh-copy dib">{{ .Params.intro | markdownify }}</div>
           {{ end }}
-          {{ partial "shared/summary-li" . }}
+          {{ if gt .Params.number_featured 0 }}
+             {{ partial "shared/summary-li" . }}
+          {{ end }}
           {{ if .Params.show_outro }}
             <div class="pt3 measure-wide lh-copy cf">{{ .Params.outro | markdownify }}</div>
           {{ end }}
