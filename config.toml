@@ -94,9 +94,9 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "mailto:scheuerl@uw.edu"
   [[params.social]]
-      icon      = "twitter blue" # icon name without the 'fa-'
+      icon      = "bluesky" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/mark_scheuerell"
+      url       = "https://bsky.app/profile/scheuerell.bsky.social"
   [[params.social]]
       icon      = "github black" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -114,8 +114,8 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://impactstory.org/u/0000-0002-8284-1254"
   [[params.social]]
-      icon      = "file-pdf" # icon name without the 'fa-'
-      icon_pack = "far"
+      icon      = "cv" # icon name without the 'fa-'
+      icon_pack = "ai"
       url       = "https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf"
 
 [taxonomies]
