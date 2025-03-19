@@ -9,7 +9,8 @@ images:
 show_action_link: true
 show_social_links: false
 position_aul: Assistant Unit Leader - Fisheries
-location_wacfwru: U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit
+location_usgs: U.S. Geological Survey
+location_wacfwru: Washington Cooperative Fish and Wildlife Research Unit
 position_prof: Associate Professor
 location_safs: School of Aquatic and Fishery Sciences
 location_uw: University of Washington
